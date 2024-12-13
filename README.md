@@ -13,7 +13,11 @@ This repository provides a Python-based tool for parsing various types of docume
 
 ---
 
+
+
 ## Prerequisites
+
+
 
 Before using the tool, ensure the following dependencies are installed:
 
@@ -36,7 +40,14 @@ brew install pandoc      # On macOS
 
 
 
+
+
+
 ---
+
+
+
+
 
 Usage
 
