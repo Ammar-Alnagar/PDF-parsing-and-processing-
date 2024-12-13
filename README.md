@@ -1,3 +1,5 @@
+## Random SSMs genegenerated readme file dont pay attention 
+
 # Document Parser
 
 This repository provides a Python-based tool for parsing various types of documents. It extracts text and metadata from PDF files and other plain-text file formats. It can also convert documents into Markdown format using Pandoc.
